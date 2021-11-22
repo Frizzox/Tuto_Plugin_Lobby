@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.plugin.java.JavaPlugin"/>
+<fullyQualifiedTypeName name="org.bukkit.plugin.Plugin"/>
+<fullyQualifiedTypeName name="org.bukkit.plugin.PluginManager"/>
+<fullyQualifiedTypeName name="fr.nkri.lobbyplugin.EventManager"/>
+<fullyQualifiedTypeName name="org.bukkit.event.block.BlockPlaceEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerDropItemEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.block.BlockBreakEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.EntityDamageEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.EntitySpawnEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Entity"/>
+<fullyQualifiedTypeName name="com.avaje.ebeaninternal.server.deploy.BeanDescriptor.EntityType"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.FoodLevelChangeEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.EntityType"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerQuitEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.GameMode"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.ScoreboardManager"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.Scoreboard"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.Objective"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.DisplaySlot"/>
+<fullyQualifiedTypeName name="javax.tools.DocumentationTool.Location"/>
+<fullyQualifiedTypeName name="org.bukkit.Location"/>
+<fullyQualifiedTypeName name="net.minecraft.server.v1_8_R3.ItemStack"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.ItemMergeEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.meta.ItemMeta"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="fr.nkri.lobbyplugin.Main"/>
+<fullyQualifiedTypeName name="org.bukkit.Material"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.ItemStack"/>
+<fullyQualifiedTypeName name="org.bukkit.enchantments.Enchantment"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerInteractEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.block.Action"/>
+<fullyQualifiedTypeName name="org.bukkit.event.inventory.InventoryClickEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.Inventory"/>
+<fullyQualifiedTypeName name="fr.nkri.lobbyplugin.listener.MenuTeleport"/>
+<fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerChatEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+</qualifiedTypeNameHistroy>

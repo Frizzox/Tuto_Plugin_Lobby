@@ -1,0 +1,17 @@
+Lobby:
+
+-> Création d'un itemstack (bousole) *, quand on clique dessus ouverture d'un GUI de navigation entre serveur
+avec réseaux bungeecord ou non. *
+
+-> Création d'un scoreboard basic. *
+
+-> Faire un système de protection (désativation des events). *
+
+-> Définir un point de spawn. *
+
+-> Donner aux joueurs des effets: speed, night vision, le mettre un gm3, mettre son heal à 20, clear inv + armor... *
+
+-> Message de join et leave. *
+
+-> Configurer le chat, prefix des joueurs. (optionel)
+

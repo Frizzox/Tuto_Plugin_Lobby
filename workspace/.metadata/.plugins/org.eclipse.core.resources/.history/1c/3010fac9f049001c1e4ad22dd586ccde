@@ -1,0 +1,11 @@
+package fr.nkri.lobbyplugin;
+
+import org.bukkit.plugin.Plugin;
+
+public class EventManager {
+	
+	public Plugin plugin;
+	public PluginManager pm;
+	
+
+}

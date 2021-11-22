@@ -1,0 +1,4 @@
+name: LobbyPlugin
+main: fr.nkri.lobbyplugin.Main
+version: 1.0
+author: NKRI

@@ -1,0 +1,19 @@
+package fr.nkri.lobbyplugin.listener;
+
+import org.bukkit.event.Listener;
+
+import fr.nkri.lobbyplugin.Main;
+
+public class MenuTeleport implements Listener {
+	
+	Main main;
+	
+	public MenuTeleport(Main main) {
+		this.main = main;
+	}
+	
+	private ItemStack getItem(String name, Material material, String[] lore) {
+		
+	}
+
+}
